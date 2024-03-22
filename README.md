@@ -1,8 +1,8 @@
 # Hi there 👋🏻, I'm Vinícius Bueno 🧑🏻‍💻
-19 years old, software engineer student and developer front-end
+I'm 19 years old a software engineer student who is passionate about tech and front-end development.
 
 # 🙋🏻 About Me:
-💻 I'm currently learning JavaScript and more about full-stack development<br>👀 Looking for an internship on front-end development<br>📖 Graduating in Software Engineering 
+💻 I'm currently learning JavaScript and more about full-stack development<br>👀 Looking for an internship on front-end development<br>📖 Graduating in Software Engineering<br>📧 Reach me on viniciusbueno023@gmail.com 
 
 
 ## 🌐 Socials:
